@@ -15,3 +15,4 @@ Just a demo project.
 * So many demo features
 
 * Some more amazing features
+Now it should be just fine.
